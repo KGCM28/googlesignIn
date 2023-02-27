@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "797856467134",
+    "project_id": "petmalu-dog-dating",
+    "storage_bucket": "petmalu-dog-dating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797856467134:android:590210e438e8f9ae4eb6ef",
+        "android_client_info": {
+          "package_name": "com.kgcm28.petmaludogdating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797856467134-h0g80o3tv8frh6nm64brmnp6md1cu744.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kgcm28.petmaludogdating",
+            "certificate_hash": "52a16030c24645914247986453ec8d8b271c600e"
+          }
+        },
+        {
+          "client_id": "797856467134-uddn01dvu9u2bl2t4qlstrdr8dp84ncb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kgcm28.petmaludogdating",
+            "certificate_hash": "064976d4110434a605ac7acfc74663821e9c208d"
+          }
+        },
+        {
+          "client_id": "797856467134-u0kq5ue2kjqlrh90j14ccl4sh18t6e07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXA89ivWuMYiC5NJM7YpxOl0sG5RjxvAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797856467134-u0kq5ue2kjqlrh90j14ccl4sh18t6e07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
